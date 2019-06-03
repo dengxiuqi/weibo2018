@@ -1,5 +1,8 @@
 # 中文微博情感分类语料库
 
+我的另一个项目对这个语料库进行了预处理, 用SVM/神经网络/LSTM/注意力机制分别训练了模型  
+https://github.com/dengxiuqi/WeiboSentiment  
+
 ### 介绍
 带情感标注的微博语料数量: 10000(train.txt)+500(test.txt)  
 我本科毕业设计做微博情感NLP,需要对微博文本进行正负情感二分类  
