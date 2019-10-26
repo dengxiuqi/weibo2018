@@ -52,9 +52,3 @@ PS: 语料长度的0.95分位数为161, 表示95%的语料长度都小于161
 * 训练SVM后查看支持向量, 得到了正面/负面情感最强烈的一些词汇
 ![avatar](images/positive_words.png)
 ![avatar](images/negative_words.png)
-
-
-### Author
-欢迎交流  
-wechat:`dengxiuqi007`  
-2018.6
